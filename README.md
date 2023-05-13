@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Avyukt-Ballari
 - 👀 I’m interested in ... Python Flask/ Web Development
-- 🌱 I’m currently learning ... SQL
+- 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... Email/Discord
-- Avis#9999
+- Avisator#0001
 - avyuktballari@gmail.com
 
 <!---
