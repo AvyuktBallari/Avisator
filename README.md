@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python Flask/ Web Development
 - 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... Email/Discord
-- Avisator#0001
+- Avisator
 - avyuktballari@gmail.com
 
 <!---
