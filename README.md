@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avyukt-Ballari
+- 👋 Hi, I’m @Avisator
 - 👀 I’m interested in ... Python Flask/ Web Development
 - 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... Email/Discord
