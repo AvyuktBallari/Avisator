@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avisator
-- 👀 I’m interested in ... Python Flask/ Web Development
-- 🌱 I’m currently learning ... Web Development
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... TailwindCSS + React
 - 📫 How to reach me ... Email/Discord
 - Avisator
 - avyuktballari@gmail.com
